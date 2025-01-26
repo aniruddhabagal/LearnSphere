@@ -1,0 +1,98 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual Environment directories
+venv/
+env/
+ENV/
+venv.bak/
+venv/
+
+# Environments
+.env
+.env.*
+!env.example
+
+# Database files
+*.sqlite3
+*.db
+*.sqlite
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+wheels/
+share/python-wheels/
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm project files
+.idea/
+
+# Visual Studio Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Mypy cache
+.mypy_cache/
+
+# Pylint reports
+pylint-report.txt
+
+# Bandit reports
+bandit-report.txt
+
+# Local configurations
+config.py
+
+# Secret files
+secret.key
+*.pem
+*.key
+
+# OAuth 2.0 token caches
+token.json
+
+# Additional directories
+vectorstore/
